@@ -41,5 +41,3 @@ class produk{
  echo "<br>";
  echo $produk2->cetakinfo();
  echo "<br>";
-  
- 
